@@ -1,0 +1,16 @@
+# About Notepad
+> A Notepad Clone in which the user inputs text by writing with a styles on the screen.
+> Contains features such as File, Edit, Help.
+> We can Save, print, Copy, Paste any text which we want
+> Contains features of Saving, Opening, Editing files within your System.
+
+# Concepts Learn 
+> Abstract Window Toolkit in JAVA.
+> Making a java GUI application.
+> Classes and Objects in java.
+> Use of various JAVA Swing Components like Jframe, Jtext, JButton etc.
+
+Link: https://www.studytonight.com/java/java-awt.php
+
+> Abstract Window Toolkit (AWT)(belongs to Java Fundational Classes): A standard API, provides GUI of java program.
+>  
